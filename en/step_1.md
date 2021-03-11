@@ -1,59 +1,26 @@
-## Introduction
+## Paint a new backdrop
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Click on **Paint** from the **Choose a Backdrop** menu
 
-### What you will make
+![Paint icon in the choose a backdrop menu](images/paint-backdrop.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project you will also see them in the list.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![New background shown in paint editor](images/new-background-in-editor.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+To set the main backdrop colour, click on the **Rectangle** tool. Use the **Fill** colour chooser to select a colour and drag the shape over the full backdrop canvas. 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![New background shown in paint editor](images/fill-colour-tool.png)
+![New background shown in paint editor](images/single-backdrop-colour.png)
 
-+ A computer or tablet capable of running Scratch 3
+If you want to add more details to your backdrop you can use the **Rectangle** tool, **Circle** tool, **Paint** tool - or a combination of all three!   
 
-### Software
+![New background shown in paint editor](images/hill-backdrop.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+When you are finished, don’t forget to give your new backdrop a sensible name.
 
-### Downloads
+![New background shown in paint editor](images/name-backdrop.png)
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+Your new backdrop will be shown on the Stage and available to use in the `Looks`{:class="block3looks"} blocks.
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![New background shown in paint editor](images/finished backdrop.png)
