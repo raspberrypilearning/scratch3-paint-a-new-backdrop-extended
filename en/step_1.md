@@ -23,4 +23,4 @@ When you are finished, don’t forget to give your new backdrop a sensible name.
 
 Your new backdrop will be shown on the Stage and available to use in the `Looks`{:class="block3looks"} blocks.
 
-![New background shown in paint editor](images/finished backdrop.png)
+![New background shown in paint editor](images/finished-backdrop.png)
