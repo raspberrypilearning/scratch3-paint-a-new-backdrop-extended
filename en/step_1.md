@@ -1,5 +1,3 @@
-## Paint a new backdrop
-
 Click on **Paint** from the **Choose a Backdrop** menu
 
 ![Paint icon in the choose a backdrop menu](images/paint-backdrop.png)
