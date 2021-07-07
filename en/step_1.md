@@ -15,10 +15,10 @@ If you want to add more details to your backdrop, you can use the **Rectangle** 
 
 ![The backdrop canvas with the light-blue rectangle, and in front of it, a smaller green circle representing a hill.](images/hill-backdrop.png)
 
-When you have finished, make sure that you give your new backdrop a sensible name:
+When you have finished, make sure that you give your new backdrop a name that makes sense:
 
-![The backdrop name property box with the word 'Hill' typed into it.](images/name-backdrop.png)
+![The backdrop name box with the word 'Hill' typed in.](images/name-backdrop.png)
 
 Your new backdrop will be shown on the Stage and will be available to use in `Looks`{:class="block3looks"} blocks.
 
-![The new 'Hill' backdrop and the Scratch Cat sprite on the Stage.](images/finished-backdrop.png)
+![The new Hill backdrop and the Scratch Cat sprite on the Stage.](images/finished-backdrop.png)
