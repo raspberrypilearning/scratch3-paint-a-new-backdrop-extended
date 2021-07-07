@@ -1,4 +1,4 @@
-Click on **Paint** in the **Choose a Backdrop** menu:
+Go to the **Choose a Backdrop** menu and click on **Paint**:
 
 ![The 'Paint' option in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
 
