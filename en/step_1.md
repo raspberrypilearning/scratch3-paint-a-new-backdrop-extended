@@ -1,24 +1,24 @@
-Click on **Paint** from the **Choose a Backdrop** menu
+Go to the **Choose a Backdrop** menu and click on **Paint**:
 
-![Paint icon in the choose a backdrop menu](images/paint-backdrop.png)
+![The 'Paint' option in the 'Choose a Backdrop' menu.](images/paint-backdrop.png)
 
-You will be taken to the Scratch Paint editor with the new backdrop highlighted. If you have other backdrops in your project you will also see them in the list.
+You will be taken to the Paint editor, where the new backdrop will be highlighted in the list. If you have other backdrops in your project, you will also see them in the list.
 
-![New background shown in paint editor](images/new-background-in-editor.png)
+![The new backdrop open in the Paint editor and highlighted in the list.](images/new-background-in-editor.png)
 
-To set the main backdrop colour, click on the **Rectangle** tool. Use the **Fill** colour chooser to select a colour and drag the shape over the full backdrop canvas. 
+To set the main colour of the backdrop, click on the **Rectangle** tool, then use the **Fill** colour chooser to select a colour, then drag the shape over the full backdrop canvas:
 
-![New background shown in paint editor](images/fill-colour-tool.png)
-![New background shown in paint editor](images/single-colour-backdrop.png)
+![The Fill colour chooser menu with 'Color', 'Saturation', and 'Brightness' sliders.](images/fill-colour-tool.png)
+![A light-blue rectangle drawn larger than the canvas to create an entirely light-blue backdrop.](images/single-colour-backdrop.png)
 
-If you want to add more details to your backdrop you can use the **Rectangle** tool, **Circle** tool, **Paint** tool - or a combination of all three!   
+If you want to add more details to your backdrop, you can use the **Rectangle** tool, **Circle** tool, or **Brush** tool, or a combination of all three!   
 
-![New background shown in paint editor](images/hill-backdrop.png)
+![The backdrop canvas with the light-blue rectangle, and in front of it, a smaller green circle representing a hill.](images/hill-backdrop.png)
 
-When you are finished, don’t forget to give your new backdrop a sensible name.
+When you have finished, make sure that you give your new backdrop a name that makes sense:
 
-![New background shown in paint editor](images/name-backdrop.png)
+![The backdrop name box with the word 'Hill' typed in.](images/name-backdrop.png)
 
-Your new backdrop will be shown on the Stage and available to use in the `Looks`{:class="block3looks"} blocks.
+Your new backdrop will be shown on the Stage and will be available to use in `Looks`{:class="block3looks"} blocks.
 
-![New background shown in paint editor](images/finished-backdrop.png)
+![The new Hill backdrop and the Scratch Cat sprite on the Stage.](images/finished-backdrop.png)
