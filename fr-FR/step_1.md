@@ -10,7 +10,7 @@ Pour définir la couleur principale de l'arrière-plan, clique sur l'outil **Rec
 
 ![Le menu du sélecteur de couleur de remplissage avec les curseurs « Couleur », « Saturation » et « Luminosité ».](images/fill-colour-tool.png) ![Un rectangle bleu clair dessiné plus grand que le canevas pour créer un arrière-plan entièrement bleu clair.](images/single-colour-backdrop.png)
 
-Si tu souhaites ajouter plus de détails à ton arrière-plan, tu peux utiliser l'outil **Rectangle** **Cercle** ou l'outil **Pinceau** , ou une combinaison des trois !
+Si tu souhaites ajouter plus de détails à ton arrière-plan, tu peux utiliser l'outil **Rectangle** **Cercle** ou l'outil **Pinceau**, ou une combinaison des trois !
 
 ![L'arrière-plan avec le rectangle bleu clair, et devant lui, un petit cercle vert représentant une colline.](images/hill-backdrop.png)
 
