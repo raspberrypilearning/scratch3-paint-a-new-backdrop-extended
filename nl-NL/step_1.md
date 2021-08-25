@@ -1,23 +1,23 @@
-Klik op **Tekenen** in het menu **Kies een achtergrond**
+Ga naar het **Kies een achtergrond** menu en kies **Tekenen**:
 
-![Tekenpictogram in het menu Kies een achtergrond](images/paint-backdrop.png)
+![De 'Tekenen' optie in het 'Kies een achtergrond' menu.](images/paint-backdrop.png)
 
-Je komt dan in de Scratch Teken-editor en de nieuwe achtergrond is gemarkeerd. Als je andere achtergronden in je project hebt, zul je deze ook in de lijst zien.
+De Teken editor opent dan, waar de nieuwe achtergrond in de lijst wordt gemarkeerd. Als je andere achtergronden in je project hebt, zul je deze ook in de lijst zien.
 
-![Nieuwe achtergrond weergegeven in de teken-editor](images/new-background-in-editor.png)
+![De nieuwe achtergrond wordt geopend in de Teken editor en gemarkeerd in de lijst.](images/new-background-in-editor.png)
 
-Om de hoofdkleur van de achtergrond in te stellen, klikt je op het gereedschap **Rechthoek**. Gebruik de **Vulling** kleur kiezer om een kleur te selecteren en sleep de vorm over het hele achtergronddoek.
+Om de hoofdkleur van de achtergrond in te stellen, klik je op het **Rechthoek** gereedschap en gebruik je vervolgens de **Vulling** kleurkiezer om een kleur te selecteren en sleep je de vorm over de volledige achtergrond:
 
-![Nieuwe achtergrond weergegeven in de teken-editor](images/fill-colour-tool.png) ![Nieuwe achtergrond weergegeven in de teken-editor](images/single-colour-backdrop.png)
+![Het vulkleurkiezermenu met de schuifregelaars 'Kleur', 'Verzadiging' en 'Helderheid'.](images/fill-colour-tool.png) ![Een lichtblauwe rechthoek die groter is dan het canvas getekend om een volledig lichtblauwe achtergrond te creëren.](images/single-colour-backdrop.png)
 
-Als je meer details aan je achtergrond wilt toevoegen, kun je het gereedschap **Rechthoek** **Cirkel** of **Kwast** gereedschap gebruiken - of een combinatie van alle drie!
+Als je meer details aan je achtergrond wilt toevoegen, kun je het gereedschap **Rechthoek** **Cirkel** of **Kwast** gebruiken - of een combinatie van alle drie!
 
-![Nieuwe achtergrond weergegeven in de teken-editor](images/hill-backdrop.png)
+![De achtergrond met de lichtblauwe rechthoek en ervoor een kleinere groene cirkel die een heuvel voorstelt.](images/hill-backdrop.png)
 
-Vergeet niet om je achtergrond een goede naam te geven als je klaar bent.
+Als je klaar bent, zorg er dan voor dat je je nieuwe backdrop een logische naam geeft:
 
-![Nieuwe achtergrond weergegeven in de teken-editor](images/name-backdrop.png)
+![Het vak met de naam van de achtergrond met het woord 'Heuvel' ingetypt.](images/name-backdrop.png)
 
 Je nieuwe achtergrond wordt in het werkgebied getoond en is beschikbaar voor gebruik in de `Uiterlijken`{:class="block3looks"} codeblokken.
 
-![Nieuwe achtergrond weergegeven in de teken-editor](images/finished-backdrop.png)
+![De nieuwe Heuvel achtergrond en de Scratch Kat sprite in het werkgebied.](images/finished-backdrop.png)
