@@ -10,7 +10,7 @@ Om de hoofdkleur van de achtergrond in te stellen, klik je op het **Rechthoek** 
 
 ![Het vulkleurkiezermenu met de schuifregelaars 'Kleur', 'Verzadiging' en 'Helderheid'.](images/fill-colour-tool.png) ![Een lichtblauwe rechthoek die groter is dan het canvas getekend om een volledig lichtblauwe achtergrond te creëren.](images/single-colour-backdrop.png)
 
-Als je meer details aan je achtergrond wilt toevoegen, kun je het gereedschap **Rechthoek** **Cirkel** of **Kwast** gebruiken - of een combinatie van alle drie!
+Als je meer details aan je achtergrond wilt toevoegen, kun je het gereedschap **Rechthoek**, **Cirkel** of **Kwast** gebruiken - of een combinatie van alle drie!
 
 ![De achtergrond met de lichtblauwe rechthoek en ervoor een kleinere groene cirkel die een heuvel voorstelt.](images/hill-backdrop.png)
 
