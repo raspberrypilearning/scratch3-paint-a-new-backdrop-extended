@@ -14,7 +14,7 @@ Als je meer details aan je achtergrond wilt toevoegen, kun je het gereedschap **
 
 ![De achtergrond met de lichtblauwe rechthoek en ervoor een kleinere groene cirkel die een heuvel voorstelt.](images/hill-backdrop.png)
 
-Als je klaar bent, zorg er dan voor dat je je nieuwe backdrop een logische naam geeft:
+Als je klaar bent, zorg er dan voor dat je je nieuwe achtergrond een logische naam geeft:
 
 ![Het vak met de naam van de achtergrond met het woord 'Heuvel' ingetypt.](images/name-backdrop.png)
 
