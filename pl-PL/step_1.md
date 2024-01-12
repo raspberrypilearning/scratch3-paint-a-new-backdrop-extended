@@ -2,9 +2,9 @@ Przejdź do menu **Wybierz tło** i kliknij **Maluj**:
 
 ![Opcja „Maluj” w menu „Wybierz tło”.](images/paint-backdrop.png)
 
-Zostaniesz przeniesiony do edytora Paint, gdzie na liście zostanie podświetlone nowe tło. Jeśli w swoim projekcie masz inne tła, zobaczysz je również na liście.
+Zostaniesz przeniesiony do edytora Malowania, gdzie na liście zostanie podświetlone nowe tło. Jeśli w swoim projekcie masz inne tła, zobaczysz je również na liście.
 
-![Nowe tło otwarte w edytorze Paint i podświetlone na liście.](images/new-background-in-editor.png)
+![Nowe tło zostanie otwarte w edytorze Malowania i będzie podświetlone na liście.](images/new-background-in-editor.png)
 
 Aby ustawić główny kolor tła, kliknij narzędzie **Prostokąt**, potem użyj **Wypełnij** aby wybrać kolor, a następnie rozciągnij kształt na obszar całego tła:
 
