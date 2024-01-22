@@ -10,11 +10,11 @@ Aby ustawić główny kolor tła, kliknij narzędzie **Prostokąt**, potem użyj
 
 ![Menu wyboru Wypełnij z suwakami „Kolor”, „Nasycenie” i „Jasność”.](images/fill-colour-tool.png) ![Jasnoniebieski prostokąt większy niż płótno/scena, aby stworzyć całkowicie jasnoniebieskie tło.](images/single-colour-backdrop.png)
 
-Jeśli chcesz dodać więcej szczegółów do tła, możesz użyć narzędzia **Prostokąt**, **Okrąg** lub **Pędzel** lub kombinacji wszystkich trzech!
+Jeśli chcesz dodać więcej szczegółów do tła, możesz użyć narzędzia **Prostokąt**, **Okrąg**, **Pędzel** lub kombinacji wszystkich trzech!
 
 ![Płótno tła z jasnoniebieskim prostokątem, a przed nim mniejsze zielone kółko przedstawiające wzgórze.](images/hill-backdrop.png)
 
-Po zakończeniu upewnij się, że nadałeś nowemu tłu logiczną nazwę:
+Po zakończeniu upewnij się, że nadałeś nowemu tłu sensowną nazwę:
 
 ![Wpisano pole nazwy tła ze słowem „Wzgórze”.](images/name-backdrop.png)
 
